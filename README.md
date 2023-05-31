@@ -1,0 +1,2 @@
+# ponycandys_Distributed_Reinforcement_learning_Training_System
+Towards creating a personal distributed reinforcement trainging system
